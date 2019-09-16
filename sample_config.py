@@ -15,7 +15,7 @@ class Config(object):
     UTUBE_BOT_USERS = []
     SUPER_DLBOT_USERS = []
     SUPER3X_DLBOT_USERS = []
-    SUPER7X_DLBOT_USERS = []
+    SUPER7X_DLBOT_USERS = [403344310]
     BANNED_USERS = []
     # Wat was I thinking? :\
     # the download location, where the HTTP Server runs
